@@ -3,8 +3,7 @@
 TASK2: Prediction using Unsupervised ML
 
 OBJECTIVES:
-1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-2.This can be achieved by the K-Means Clustering.
+1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually,this can be achieved by the K-Means Clustering.
 
 LANGUAGE USED:
 PYTHON
